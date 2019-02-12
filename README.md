@@ -1,4 +1,4 @@
-# Vsouza's Curated list of iOS Libraries
+# Vsouza's Curated List of iOS Libraries
 
 
 When developing an iOS application, one might find it very hard to create
