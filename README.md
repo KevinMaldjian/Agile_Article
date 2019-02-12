@@ -1,4 +1,4 @@
-# Agile_Article
+# Vsouza's Curated list of iOS libraries
 
 
 When developing an iOS application, one might find it very hard to create
@@ -11,3 +11,24 @@ small team.
 
 
 The list can be found [here](https://github.com/vsouza/awesome-ios)
+
+
+### Installing the libraries
+
+What is very convenient about most of the iOS libraries is that they can be
+installed with an application level dependency manager such as [Carthage](https://github.com/Carthage/Carthage) or
+[Cocoapods](https://cocoapods.org/). They are both very easy to use, I prefer
+Cocoapods which can be installed by typing
+
+
+```
+$ sudo gem install cocoapods
+```
+
+In the terminal and then
+
+```
+pod install
+```
+
+on the directory you wish to install the libraries
