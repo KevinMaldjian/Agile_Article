@@ -1,4 +1,4 @@
-# Vsouza's Curated list of iOS libraries
+# Vsouza's Curated list of iOS Libraries
 
 
 When developing an iOS application, one might find it very hard to create
@@ -30,5 +30,4 @@ In the terminal and then
 ```
 pod install
 ```
-
-on the directory you wish to install the libraries
+on the directory you wish to install the libraries.
