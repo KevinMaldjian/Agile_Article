@@ -34,7 +34,6 @@ on the directory you wish to install the libraries.
 
 ### Mahataz Khandaker
 One library that I think would be very useful is the Venmo API. One can integrate Venmo payments and requests in his/her application by adding the following line to the Podfile (if CocoaPods is used):
-
 ```
 pod 'Venmo-iOS-SDK', '~>1.3'
 ```
